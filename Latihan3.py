@@ -1,7 +1,7 @@
 print("=== PERHITUNGAN PERJALANAN ===")
 
-jarakTempuh = 180        
-konsumsiBbm = 12          
+jarakTempuh = 110        
+konsumsiBbm = 122          
 hargaPerLiter = 13000  
 
 # 1. Menghitung jumlah liter bensin yang dibutuhkan

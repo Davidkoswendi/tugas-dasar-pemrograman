@@ -1,7 +1,7 @@
 print("=== PERHITUNGAN KEBUTUHAN BAHAN JUS ===")
 
-buah = 600     
-susu = 400    
+buah = 1000     
+susu = 800    
 gula = 4
 
 gelas_dibutuhkan = 15
